@@ -1,0 +1,9 @@
+# Ignore all config.js
+**/config.js
+
+# Ignore secure and secret folders
+secure/
+secret/
+
+# Ignore all .hacker files
+*.hacker
